@@ -4,7 +4,7 @@
 
 本代码所有代码均为纯手写实现，没有调用深度学习框架
 
-数据集为MNIST数据集
+数据集为MNIST
 
 两层全链接网络权重：Neural-Network-parameter.txt
 
